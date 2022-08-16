@@ -1,0 +1,15 @@
+/Users/diwashdhungana/Projects/numberGuesser/bin/Debug/net6.0/numberGuesser
+/Users/diwashdhungana/Projects/numberGuesser/bin/Debug/net6.0/numberGuesser.deps.json
+/Users/diwashdhungana/Projects/numberGuesser/bin/Debug/net6.0/numberGuesser.runtimeconfig.json
+/Users/diwashdhungana/Projects/numberGuesser/bin/Debug/net6.0/numberGuesser.dll
+/Users/diwashdhungana/Projects/numberGuesser/bin/Debug/net6.0/numberGuesser.pdb
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.csproj.AssemblyReference.cache
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.AssemblyInfoInputs.cache
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.AssemblyInfo.cs
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.csproj.CoreCompileInputs.cache
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.dll
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/refint/numberGuesser.dll
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.pdb
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/numberGuesser.genruntimeconfig.cache
+/Users/diwashdhungana/Projects/numberGuesser/obj/Debug/net6.0/ref/numberGuesser.dll
